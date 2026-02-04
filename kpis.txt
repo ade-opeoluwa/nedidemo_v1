@@ -1,0 +1,41 @@
+NEDI Platform Analytics KPIs
+----------------------------
+1.	Exam Pass Rate vs % Qualified Teachers - Impact of teacher training
+2.	Dropout Rate vs Teacher–Student Ratio - Overload impact 
+3.	Rural-Urban Performance Gap vs Teacher Deployment Equity Index - Staffing inequality effects
+4.	Gender Gap vs Female Teacher Ratio - More female teachers to higher female retention
+5.	Average Exam Score by Teacher Qualification Level - Identifies whether higher teacher qualification levels translate into improved student performance
+6.	Exam Pass Rate vs Teacher-to-Student Ratio - Identifies whether lower teaching loads are associated with improved student performance
+7.	Exam Pass Rate vs Classroom Condition Index - Whether better classrooms improve results
+8.	Average Class Performance vs Average Class Size - Shows optimal class size thresholds for effective teaching
+9.	Pass Rate vs Electricity Availability - Role of electricity in learning environment
+10.	Pass Rate vs ICT Access - Impact of digital resources in learning environment
+11.	Dropout Rate vs Infrastructure Deficit Score - Whether poor facilities drive dropout
+12.	Enrollment Growth vs Infrastructure Expansion - If building schools increases education access
+13.	School Safety Facilities vs Attendance Stability - Shows whether secure schools sustain attendance during unrest or crises
+14.	School Ranking vs Teacher Quality Index - High teacher quality → high ranking
+15.	School Improvement vs Training Interventions
+16.	School Results vs Inspection Frequency - More inspections → better compliance
+17.	Data Reporting Timeliness vs Funding Allocation - Good data → better funding
+18.	Payroll Timeliness vs Teacher Retention - Late pay → attrition (more public sector focused)
+19.	Almajiri Enrollment vs Literacy Rates - Higher inclusion → higher literacy
+20.	Special Needs Enrollment vs Facility Access - Better access → higher enrollment
+21.	Support Coverage vs Enrollment Growth - Highlights whether increases in enrollment are matched by support e.g. grants, funding, improved infrastructure, indicating potential gaps in resources or efficiency in resource allocation
+22.	Almajiri Enrollment vs State OOSC Rate - Correlation shows states with low enrolment → high OOSC 
+23.	Scholarship Coverage vs Retention - Scholarships → lower dropout
+24.	Gender-Adjusted OOSC Risk Index - Pinpoints states where girls face disproportionate exclusion
+25.	Almajiri and OOSC Age Transition Risk - Identifies critical ages where intervention should intensify
+26.	Scholarship Coverage vs Academic Performance - Average Exam Score of Beneficiaries vs Non-beneficiaries
+27.	OOSC Reintegration Efficiency - Shows which demographics are hardest to bring back into school
+28.	OOSC Learning Catch-Up Index - Reveals how late entry affects learning recovery
+29.	Multi-Vulnerability Exposure Index - Identifies children facing compounded risks, not single-factor issues
+30.	Vulnerability-to-Promotion Ratio - Identifies whether vulnerable students are being left behind in progression, not just enrollment
+31.	Enrollment-to-Completion Conversion Rate - Shows how efficiently the system converts access into successful outcomes, not just enrollment growth
+32.	Enrollment Growth vs Teacher Growth Gap - Early warning for future overcrowding and declining quality
+33.	Gender Survival Rate Gap - Highlights age ranges with higher dropout risk for girls compared to boys
+34.	Gender Learning Efficiency Index - Reveals whether access converts into achievement equally across genders
+35.	Adolescent Girls Attrition Curve by State - Highlights puberty-linked dropout spikes by location
+36.	Transition Shock Index - Identifies system leakage points during level transitions (primary to secondary, secondary to tertiary)
+37.	Age-Vulnerability Dropout Risk - Pinpoints ages where compounded vulnerabilities most threaten retention, guiding age-targeted interventions
+38.	Female OOSC Re-Enrollment Efficiency - Measures effectiveness of programs targeting girls specifically, highlighting gender-specific program gaps
+39.	Regional Equity Gap Index - Identifies regional disparities in performance, directing targeted interventions and resources
