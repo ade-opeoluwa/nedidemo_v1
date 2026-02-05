@@ -1,0 +1,8 @@
+Docker
+DBT
+Snowflake
+Data bricks
+Clickhouse
+Airbyte
+Airflow
+Apache Spark 
